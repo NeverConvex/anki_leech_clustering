@@ -1,0 +1,279 @@
+#separator:tab
+#html:false
+掏摸	pickpocket	Noun	すり						
+一致	agreement, accord, correspondence, consistency, coincidence	Noun, Suru verb, Intransitive verb	一致[いっち]		union, unity, cooperation				
+家屋	house, building	Noun	家屋[かおく]						
+継続	continuation, continuance, going on	Noun, Suru verb, Transitive verb, Intransitive verb	継続[けいぞく]						
+姓	surname, family name	Noun	姓[せい]		hereditary title (used in ancient Japan to denote rank and political standing)				
+表紙	cover (of a book, magazine, etc.), binding	Noun	表紙[ひょうし]		to appear on the cover of a magazine				
+統一	unity, consolidation, uniformity, unification, compatible	Noun, Suru verb	統一[とういつ]						
+行列	line, queue, procession, parade	Noun, Suru verb	行列[ぎょうれつ]		matrix				
+生産	production, manufacture	Noun, Suru verb, Transitive verb	生産[せいさん]						
+会館	meeting hall, assembly hall	Noun	会館[かいかん]						
+工夫	devising (a way), contriving, figuring out, coming up with, working out, inventing	Noun, Suru verb	工夫[くふう]		device, design, idea, plan, invention; dedication to spiritual improvement (esp. through Zen meditation)				
+社説	editorial, leading article, leader	Noun	社説[しゃせつ]						
+献立	menu, bill of fare	Noun	献立[こんだて]		program, programme, schedule				
+蛍光灯	fluorescent lamp, fluorescent light	Noun	蛍光灯[けいこうとう]		person who is slow to react, someone slow on the uptake				
+定規	(measuring) ruler	Noun	定規[じょうぎ]						
+経度	longitude	Noun	経度[けいど]						
+率直	frank, candid, straightforward, openhearted, direct, outspoken	Na-adjective , Noun	率直[そっちょく]						
+何とも	really, very, extremely, terribly, awfully	Adverb	何[なん]とも		(not) anything, (not) at all, (not) a bit				
+手入れ	care, looking after, repair, maintenance, tending, trimming, grooming	Noun, Suru verb	手入[てい]れ		(police) raid, crackdown				
+判事	judge, judiciary	Noun	判事[はんじ]						
+重役	(company) director, executive, top management	Noun	重役[じゅうやく]		important post, role with heavy responsibilities				
+箇所	place, point, part, spot, area, passage, portion	Noun	箇所[かしょ]		counter for places, parts, passages, etc.				
+気配	indication, sign, hint, sensation, feeling	Noun	気配[けはい]		tone (of the market)				
+素質	makings (of), aptitude, talent, qualities	Noun	素質[そしつ]		nature, character, temperament				
+恩恵	grace, favor, favour, blessing, benefit	Noun	恩恵[おんけい]						
+未満	less than, under, below	Noun, used as a suffix, Noun, Adverb	未満[みまん]						
+休養	rest, relaxation, recreation, recuperation, convalescence	Noun, Suru verb, Intransitive verb	休養[きゅうよう]						
+整備	maintenance, servicing	Noun, Suru verb	整備[せいび]		putting in place, establishment, development, preparation, provision, outfitting				
+夕日	evening sun, setting sun	Noun	夕日[ゆうひ]						
+日陰	shade, shadow	Noun	日陰[ひかげ]		sunshine				
+芝居	play, drama	Noun	芝居[しばい]						
+すっと	straight, quickly, directly, all of a sudden	Adverb , Suru verb	すっと		quietly, gently, softly; to feel refreshed, to feel satisfied				
+特色	characteristic, feature, idiosyncrasy, personal colour	Noun	特色[とくしょく]		spot color				
+快晴	clear weather, cloudless weather, good weather	Noun, Noun which may take the genitive case particle 'no'	快晴[かいせい]						
+架空	fictitious, imaginary, fanciful, fabricated	Noun which may take the genitive case particle 'no', Na-adjective , Noun	架空[かくう]		aerial, overhead				
+青少年	youth, young person	Noun	青少年[せいしょうねん]						
+課税	taxation	Noun, Suru verb, Intransitive verb	課税[かぜい]						
+持参	bringing, taking, carrying	Noun, Suru verb, Transitive verb	持参[じさん]						
+基地	base (military, expedition, etc.)	Noun	基地[きち]						
+批評	criticism, critique, review, commentary	Noun, Suru verb	批評[ひひょう]						
+強気	confident, assured, self-assured, firm, strong, cocksure	Na-adjective , Noun which may take the genitive case particle 'no', Noun	強気[つよき]		bullish (e.g. market)				
+岸	bank, coast, shore	Noun	岸[きし]						
+拡充	expansion	Noun, Suru verb, Transitive verb	拡充[かくじゅう]						
+格別	particular, special, exceptional, especial	Noun which may take the genitive case particle 'no', Na-adjective , Noun	格別[かくべつ]		particularly, especially, exceptionally				
+用途	use, service, purpose	Noun	用途[ようと]						
+思い付く	to think of, to hit upon, to come into one's mind, to be struck with an idea	Godan verb with ku ending, Transitive verb, Intransitive verb	思[おも]い 付[つ]く		to remember, to recall				
+例える	to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor	Ichidan verb, Transitive verb	例[たと]える						
+流行る	to be popular, to come into fashion	Godan verb with ru ending, Intransitive verb	流行[はや]る		to be prevalent, to spread widely (e.g. disease), to be endemic; to flourish, to thrive				
+引っ掛かる	to be caught in, to be stuck in	Godan verb with ru ending, Intransitive verb	引[ひ]っ 掛[か]かる		to stop by, to drop in for a short visit, to be delayed, to take time; to get mixed up in (trouble), to get entangled in (a problem), to be involved with; to fall for (a trick), to be deceived, to be cheated; to be on one's mind, to worry one, to be bothered by, to feel uneasy; to be obstructed, to be hindered; to splash				
+剃る	to shave	Godan verb with ru ending, Transitive verb	剃[そ]る						
+厚かましい	impudent, shameless, brazen	I-adjective	厚[あつ]かましい						
+冷める	to cool down, to get cold	Ichidan verb, Intransitive verb	冷[さ]める		to cool off (excitement, temper, etc.), to subside, to dampen, to fade, to wane; to be cold (eyes, expression, etc.), to be composed				
+恋しい	yearned for, longed for, missed	I-adjective	恋[こい]しい						
+正午	noon, midday	Noun, Adverb	正午[しょうご]						
+敬う	to show respect for, to revere, to honour, to honor, to worship, to hold in esteem	Godan verb with u ending, Transitive verb	敬[うやま]う						
+妥当	valid, proper, right, appropriate, reasonable	Na-adjective , Noun	妥当[だとう]						
+書籍	book, publication	Noun	書籍[しょせき]						
+便り	news, tidings, information, correspondence, letter	Noun, Noun, used as a suffix, Suru verb	便[たよ]り						
+貸家	house for rent	Noun	貸家[かしや]						
+中間	middle, midway, halfway, centre, center	Noun	中間[ちゅうかん]		middle position, moderate position, neutral position, middle-of-the-road position; interim, intermediary, intermediate, midterm				
+ああ	like that, so	Adverb	ああ						
+凍える	to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled	Ichidan verb, Intransitive verb	凍[こご]える						
+治める	to govern, to manage	Ichidan verb, Transitive verb	治[おさ]める		to subdue				
+方角	direction, way	Noun	方角[ほうがく]		point of the compass, cardinal direction, bearing; method, means, approach				
+実現	implementation (e.g. of a system), materialization, materialisation, realization, realisation, actualization, actualisation	Noun, Suru verb, Transitive verb, Intransitive verb	実現[じつげん]						
+客間	drawing room, parlor, parlour, guest room	Noun	客間[きゃくま]						
+便箋	writing paper, stationery, notepaper	Noun	便箋[びんせん]						
+射す	to shine	Godan verb with su ending, Intransitive verb	射[さ]す						
+番地	house number, address	Noun	番地[ばんち]						
+四角い	square, rectangular	I-adjective	四角[しかく]い						
+請う	to beg, to ask, to request, to invite	Godan verb with u ending , Transitive verb	請[こ]う						
+逆様	inverted, upside down, reversed, back to front, wrong way round	Na-adjective , Noun which may take the genitive case particle 'no', Noun	逆様[さかさま]						
+通り掛かる	to happen to pass by	Godan verb with ru ending, Transitive verb, Intransitive verb	通[とお]り 掛[か]かる						
+赤道	equator	Noun, Noun which may take the genitive case particle 'no'	赤道[せきどう]						
+日日	date (of a planned event, act, etc.), day	Noun	日日[ひにち]		(number of) days				
+破く	to tear, to rip	Godan verb with ku ending, Transitive verb	破[やぶ]く						
+傾らか	gently sloping, gentle, gradual, easy	Na-adjective	傾[なだ]らか		smooth (process), gentle (e.g. tone of voice), slow (e.g. growth)				
+見出し	heading, headline, title, caption	Noun	見出[みだ]し		index; headword				
+そっと	softly, gently, quietly, lightly	Adverb	そっと		stealthily, secretly, in secret; to leave alone, to leave as it is				
+すっきり	refreshingly, with a feeling of relief, pleasantly, (a weight) off one's shoulder	Adverb , Adverb taking the 'to' particle, Suru verb	すっきり		shapely, neatly, refinedly; cleanly, without trouble; clearly, plainly, distinctly; completely, thoroughly; not at all (with negative sentence), not even slightly				
+書物	book, volume	Noun	書物[しょもつ]						
+適用	applying (e.g. a technology), adoption	Noun, Suru verb, Transitive verb	適用[てきよう]						
+速達	express, special delivery	Noun, Suru verb	速達[そくたつ]						
+更ける	to get late, to advance, to wear on	Ichidan verb, Intransitive verb	更[ふ]ける						
+論争	dispute, controversy, debate, argument, taking issue	Noun, Suru verb, Intransitive verb	論争[ろんそう]						
+襖	fusuma, Japanese sliding screen	Noun	襖[ふすま]						
+どっと	bursting out (laughter), breaking out (applause), roaring, whooping	Adverb	どっと		in a rush, in a surge, flooding in, pouring in; suddenly, all of a sudden				
+ずらり	in a row, in a line	Adverb taking the 'to' particle, Adverb	ずらり						
+発達	development, growth	Noun, Suru verb	発達[はったつ]						
+足袋	tabi, Japanese socks (with split toe)	Noun	足袋[たび]						
+目安	criterion, standard, yardstick, reference, aim	Noun	目安[めやす]		rough estimate, approximation				
+鉄橋	railway bridge, iron bridge	Noun	鉄橋[てっきょう]						
+積極的	positive, assertive, active, proactive, aggressive	Na-adjective	積極的[せっきょくてき]						
+交際	company, friendship, association, society, acquaintance	Noun, Suru verb, Intransitive verb	交際[こうさい]		(romantic) involvement, dating				
+支出	expenditure, disbursement, expenses	Noun, Suru verb, Transitive verb	支出[ししゅつ]						
+急激	sudden, abrupt, rapid, sharp, drastic, radical	Na-adjective	急激[きゅうげき]						
+設備	equipment, facilities, installation, accommodations, conveniences, arrangements	Noun, Suru verb, Transitive verb	設備[せつび]						
+抱える	to hold in one's arms, to carry in one's arms, to carry under one's arm, to hold (one's head) in one's hands	Ichidan verb, Transitive verb	抱[かか]える		to have (problems, debts, etc.), to take on (a responsibility), to be burdened with (e.g. care of a family member), to have (children, etc.) to provide for; to employ, to have (on one's staff), to hire				
+そっくり	all, altogether, entirely, completely	Adverb	そっくり		exactly like, just like, spitting image of				
+直	straight	Na-adjective	直[なお]		ordinary, common; doing nothing				
+不平	discontent, dissatisfaction, complaint, grievance	Noun, Noun which may take the genitive case particle 'no', Na-adjective	不平[ふへい]						
+微笑む	to smile	Godan verb with mu ending, Intransitive verb	微笑[ほほえ]む						
+ぎっしり	tightly (packed), densely, closely, crammed	Adverb , Adverb taking the 'to' particle	ぎっしり						
+組む	to cross (legs or arms), to link (arms)	Godan verb with mu ending	組[く]む		to put together, to construct, to assemble, to produce (e.g. TV program); to braid, to plait; to grapple, to wrestle; to unite, to join, to link up, to form an alliance; to set (e.g. type); to issue (e.g. money order)				
+金銭	money, cash	Noun, Noun which may take the genitive case particle 'no'	金銭[きんせん]						
+うろうろ	restlessly, aimlessly, without purpose	Adverb , Adverb taking the 'to' particle	うろうろ		to loiter, to drift, to hang about doing nothing, to wander aimlessly, to be restless; to be restless, to fuss, to be in a fidget				
+そそっかしい	careless, thoughtless, hasty, rash	I-adjective	そそっかしい						
+横切る	to cross (e.g. road), to traverse	Godan verb with ru ending, Transitive verb	横切[よこぎ]る						
+半ば	middle, halfway, midway	Noun, Noun, used as a suffix	半[なか]ば		half (of), one half; half (e.g. done, jokingly), partly, in part, partially; mostly, almost, nearly				
+一度に	all at once	Adverb	一度[いちど]に						
+今にも	at any moment (now), at any minute, on the verge of (doing), just about to	Adverb	今[いま]にも						
+説	theory, doctrine	Noun, Noun, used as a suffix	説[せつ]		opinion, view; rumour, rumor, gossip, hearsay				
+唸る	to groan, to moan	Godan verb with ru ending, Intransitive verb	唸[うな]る		to roar, to howl, to growl; to hum (engine, wind, etc.), to buzz, to whiz, to sough, to make a low, dull sound; to ooh and aah (in admiration); to sing in a strong, low voice (esp. traditional chant or recitation); to be about to burst, to overflow				
+気味	sensation, feeling	Noun	気味[きみ]		tendency, propensity				
+注	annotation, explanatory note, comment	Noun, Suru verb	注[ちゅう]						
+作法	manners, etiquette, propriety	Noun	作法[さほう]		manner of production (esp. of prose, poetry, etc.), way of making				
+今に	before long, even now	Adverb	今[いま]に						
+少しも	(not) at all, (not) a bit, (not) in the least, (not) in the slightest	Adverb	少[すこ]しも						
+地盤	ground, crust (earth), bed (gravel, river, etc.)	Noun	地盤[じばん]		foundation (building, etc.), base; constituency, power base, support (electoral), footing, foothold				
+投書	letter (e.g. of complaint), letter to the editor, letter from a reader	Noun, Suru verb	投書[とうしょ]		contribution (to a newspaper, magazine, etc.)				
+田植え	rice planting	Noun	田植[たう]え						
+問答	questions and answers, dialogue	Noun, Suru verb, Transitive verb, Intransitive verb	問答[もんどう]						
+貯蔵	storage, preservation	Noun, Suru verb, Transitive verb	貯蔵[ちょぞう]						
+張り切る	to be in high spirits, to be full of vigor (vigour), to be enthusiastic, to be eager, to stretch to breaking point	Godan verb with ru ending	張[は]り 切[き]る						
+四つ角	four corners	Noun	四[よ]つ 角[かど]		crossroads, intersecting street, street corner				
+ぶら下げる	to hang, to suspend, to dangle, to swing, to carry	Ichidan verb, Transitive verb	ぶら 下[さ]げる						
+正味	net (amount), clear, full (e.g. working hours)	Noun which may take the genitive case particle 'no'	正味[しょうみ]		net weight; net price, cost price; actual content, useful part				
+針路	course, direction	Noun	針路[しんろ]						
+明明後日	in three days' time, two days after tomorrow	Noun, Adverb	明明後日[しあさって]						
+寒帯	frigid zone	Noun	寒帯[かんたい]						
+課程	course, curriculum	Noun	課程[かてい]						
+突き当たり	end (of a street, hallway, etc.)	Noun	突[つ]き 当[あ]たり						
+紙屑	wastepaper, scrap of paper, paper scraps	Noun	紙屑[かみくず]						
+言付ける	to have someone send (a message, parcel, etc.), to send (via someone else), to leave (a message) with someone	Ichidan verb, Transitive verb	言付[ことづ]ける		to use as an excuse, to make a pretext of				
+口実	excuse, pretext	Noun	口実[こうじつ]						
+前代未聞	- unheard-of; unprecedented; unparalleled in history (unparallelled); record-breaking		ぜんだいみもん						
+やっていく	- to live; to make a living; to get on with		やっていく						
+おいで	- coming; going; being (somewhere) - come; go; stay		おいで						
+精進	- concentration; diligence; devotion - asceticism; zeal in one's quest for enlightenment - adherence to a vegetarian diet		しょうじん						
+かつ	- and; moreover; besides; as well as; and on top of that; at the same time		かつ						
+ふらふら	- unsteadily (e.g. on one's feet); shakily; staggering; tottering; reeling; dizzily; giddily - wavering (in one's mind); unsteadily; indecisively - aimlessly; unconsciously; whimsically; without thinking		ふらふら						
+うそうそ	- uneasily; restlessly; erratically		うそうそ						
+貫禄	presence; dignity		かんろく						
+幼虫	larva; grub; maggot		ようちゅう						
+さしかかる	to come near; to approach		さしかかる						
+にしろ	though; even if; whether ... or ...		にしろ						
+本命	favorite (to win); favourite; likely winner		ほんめい						
+やみくも	reckless; (at) random; haphazard; blind; sudden; abrupt		やみくも						
+引き継ぎ	taking over; handing over; transfer of control; inheriting; passing on the baton		ひきつぎ						
+つったつ	to stick up (hair, etc.); to stand up straight		つったつ						
+授与	awarding; conferment; granting; presentation		じゅよ						
+現存	existing; living; extant		げんぞん						
+突っ走る	0. to run swiftly; to speed; to dash; to rush; to race | 1. to charge ahead (in pursuit of some goal); to push forward	0. Godan verb with 'ru' ending; Intransitive verb | 1. Godan verb with 'ru' ending; Intransitive verb	つっぱしる						
+使いこなす	0. to handle (men); to master (a tool); to manage; to acquire a command of (a language)	0. Godan verb with 'su' ending; Transitive verb	つかいこなす						
+口説	0. lovers' tiff; quarrel between lovers | 1. chattering; idle talk	0. Noun | 1. Noun	くぜつ						
+ボコボコ	0. with a burble | 1. hollow (sounding) | 2. holey; full of holes or dents; lumpy; bumpy | 3. viciously beating; hitting and kicking repeatedly | 4. here and there | 5. (sound of) walking slowly	0. Adverb (fukushi); Adverb taking the 'to' particle | 1. Adverb (fukushi); Adverb taking the 'to' particle | 2. Adverb (fukushi); Adverb taking the 'to' particle; Na-adjective (keiyodoshi) | 3. Noun; Suru verb; Na-adjective (keiyodoshi) | 4. Adverb (fukushi); Adverb taking the 'to' particle | 5. Adverb (fukushi); Adverb taking the 'to' particle	ボコボコ						
+ぱちり	0. (with a) click (e.g. camera shutter); (with a) snap	0. Adverb taking the 'to' particle	ぱちり						
+当面	0. current; urgent; pressing; impending | 1. to confront (an issue); to face (up to something) | 2. for the meantime; at present	0. Noun which may take the genitive case particle 'no'; Noun; Adverb (fukushi) | 1. Suru verb | 2. Adverb (fukushi); Noun which may take the genitive case particle 'no'	とうめん						
+末端	0. end; tip; extremities; terminal	0. Noun; Noun which may take the genitive case particle 'no'	まったん						
+所行	0. deed; act	0. Noun	しょぎょう						
+崖	0. cliff; precipice | 1. precipice; brink of a dangerous situation | 2. Cliff	0. Noun | 1. Noun | 2. Wikipedia definition	がけ						
+嘲る	0. to scoff; to laugh at; to make fun of; to ridicule; to jeer at	0. Godan verb with 'ru' ending; Transitive verb	あざける						
+木漏れ日	0. sunlight filtering through trees	0. Noun	こもれび						
+汝等	0. ye; you | 1. me; I; us; we	0. Pronoun | 1. Pronoun	うぬら						
+ましてや (況してや)	0. much less; to say nothing of	0. Expressions (phrases, clauses, etc.); Adverb (fukushi)	ましてや						
+御名	0. God's name; Christ's name	0. Noun	みな						
+ひとしきり (一頻り)	0. for a while; for some time; for a period	0. Adverb (fukushi); Noun which may take the genitive case particle 'no'	ひとしきり						
+代物	0. article; goods; product | 1. fine thing; fellow; affair; stuff | 2. prostitute | 3. price; cost; money	0. Noun | 1. Noun | 2. Noun | 3. Noun	しろもの						
+士業	0. professional occupation; professional practice	0. Noun	しぎょう						
+緩和	0. relief; mitigation; alleviation; relaxation (of restrictions, tensions, etc.); easing; softening	0. Noun; Suru verb; Transitive verb; Intransitive verb	かんわ						
+鷲掴み	0. grabbing hold; eagle grip; tight hold	0. Noun	わしづかみ						
+地道	0. steady; honest; sober; straightforward; reliable	0. Na-adjective (keiyodoshi); Noun	じみち						
+嗅覚	0. sense of smell; olfaction | 1. Olfaction	0. Noun | 1. Wikipedia definition	きゅうかく					
+生息	0. inhabiting; living	0. Noun; Suru verb; Intransitive verb	せいそく					
+見入る	0. to gaze (at); to stare intently (at); to look fixedly (at); to fix one's eyes (on)	0. Godan verb with 'ru' ending; Transitive verb; Intransitive verb	みいる						
+いざこざ	0. trouble; quarrel; difficulties; complication; tangle	0. Noun	いざこざ						
+いっそ	0. rather; sooner; preferably; might as well; just | 1. on the contrary; if anything	0. Adverb (fukushi) | 1. Adverb (fukushi)	いっそ						
+さらさら (更々)	0. (not) at all; (not) in the least; (none) whatsoever	0. Adverb (fukushi)	さらさら						
+いつぞや (何時ぞや)	0. some time ago; the other day; at some time or other; once	0. Adverb (fukushi)	いつぞや						
+特典	0. privilege; special favor; special favour; benefit; prerogative; perk; amenity	0. Noun	とくてん						
+手練	0. skill; dexterity; master hand	0. Noun; Suru verb	しゅれん						
+優位	0. predominance; superiority; ascendancy; advantage; supremacy	0. Noun; Na-adjective (keiyodoshi)	ゆうい						
+申し付ける	0. to instruct; to tell to do; to ask to do; to order	0. Ichidan verb; Transitive verb	もうしつける						
+異例	0. exceptional; unusual; extraordinary; unprecedented; singular	0. Noun which may take the genitive case particle 'no'; Na-adjective (keiyodoshi); Noun	いれい						
+目をかける	0. to look after; to take care (of); to favor; to favour; to be partial to | 1. to gaze at; to stare at; to set one's eyes on	0. Expressions (phrases, clauses, etc.); Ichidan verb | 1. Expressions (phrases, clauses, etc.); Ichidan verb	めをかける						
+税収	0. tax yields; revenue	0. Noun	ぜいしゅう						
+無何有の郷	0. utopia; (natural) paradise	0. Noun	むかうのさと						
+見込む	0. to anticipate; to expect; to estimate; to count on; to allow for; to take into account | 1. to place confidence in; to put trust in; to trust | 2. to find promising; to see good prospects (in) | 3. to set one's eye on (e.g. prey); to mark (e.g. as a victim); to hold spellbound	0. Godan verb with 'mu' ending; Transitive verb | 1. Godan verb with 'mu' ending; Transitive verb | 2. Godan verb with 'mu' ending; Transitive verb | 3. Godan verb with 'mu' ending; Transitive verb	みこむ						
+潜り込む	to slip into; to crawl into (under); to conceal oneself (under)		もぐりこむ						
+言いがかり	false accusation; pretext; picking a quarrel		いいがかり						
+黙	silence; stillness; quietness		しじま						
+どんだけ	oh my god; how; what the; incredible		どんだけ						
+退去	departure; leaving; going away; evacuation		たいきょ						
+しぶとい	tenacious; tough; enduring; dogged; headstrong; stubborn; obstinate; unyielding		しぶとい						
+暴動	insurrection; rebellion; revolt; riot; uprising		ぼうどう						
+さもなくば	otherwise; or else; if not		さもなくば						
+パシる	to make do errands; to set to scutwork		パシる						
+デマ	false rumor (rumour); false alarm; misinformation		デマ						
+高慢ちき	arrogant; haughty; stuck-up		こうまんちき						
+これしき	trifle; insignificant thing; (only) this much		これしき						
+何かしら	somehow (or other); for some reason; without knowing why		なにかしら						
+ちっとも	(not) at all; (not) a bit; (not) in the least; (not) in the slightest		ちっとも						
+古文書	historical document; archives; old manuscript; paleograph		こもんじょ						
+性懲りもない	incorrigible; dogged		しょうこりもない						
+成就	fulfillment; fulfilment; realization; realisation; completion		じょうじゅ						
+尻拭い	cleaning up somebody else's mess; carrying the can		しりぬぐい						
+もはや	already; now		もはや						
+気品	elegance; refinement; grace; dignity		きひん						
+誉れ高い	renowned; famous		ほまれたかい						
+だい	is it?; isn't it?		だい						
+好評	favorable reception; good reputation; popularity		こうひょう						
+ぱっと	suddenly; in a flash; rapidly; nimbly; alertly		ぱっと						
+おとしめる	to show contempt for; to look down upon; to have a low opinion of		おとしめる						
+見かける	to (happen to) see; to notice; to catch sight of		みかける						
+就寝	going to bed; retiring (for the night)		しゅうしん						
+せっかち	hasty; impatient; restless; rash		せっかち						
+出前	home delivery (of food); outside catering		でまえ						
+仕業	deed (esp. negative); act; action; one's doing		しわざ						
+まがい	imitation; sham; -like		まがい						
+思い込み	wrong impression; subjective impression; assumption; prejudice		おもいこみ						
+引き続く	to continue (for a long time); to occur in succession; to come next (e.g. on TV)		ひきつづく						
+餌食	prey; victim		えじき						
+よー	(I) will; (I) shall		よー						
+あまつさえ	besides; moreover; in addition		あまつさえ						
+草生える	to laugh		くさはえる						
+さぞかし	certainly; surely		さぞかし						
+ごちゃごちゃ	messy; confused; chaotic; disorderly; mixed-up; jumbled up		ごちゃごちゃ						
+っきゃ	only; nothing but		っきゃ						
+にわか	sudden; abrupt; unexpected; improvised; hasty; offhand		にわか						
+間際	the point just before; the point of doing; the verge of happening		まぎわ						
+しきたり	custom; convention; tradition; mores; conventional practice		しきたり						
+麗しい	beautiful; lovely		うるわしい						
+しゃきしゃき	0. crisp; crunchy; precise; clipped; brisk	0. Adverb (fukushi); Adverb taking the 'to' particle; Suru verb	しゃきしゃき	 	 	 	 		
+気に留める	0. to (keep in) mind; to give heed to; to pay attention to	0. Expressions (phrases, clauses, etc.); Ichidan verb	きにとめる	 	 	 	 		
+おりゃる	0. to go; to come | 1. to be | 2. is (doing); are (doing) | 3. to be	0. Intransitive verb; Yodan verb with 'ru' ending (archaic) | 1. Intransitive verb; Yodan verb with 'ru' ending (archaic) | 2. Auxiliary verb; Yodan verb with 'ru' ending (archaic) | 3. Intransitive verb; Yodan verb with 'ru' ending (archaic)	おりゃる	 	 	 	 		
+ちっと (些と)	0. a little bit | 1. a little while	0. Adverb (fukushi) | 1. Adverb (fukushi)	ちっと	 	 	 	 		
+蹴爪	0. spur (of a chicken, pheasant, etc.); cockspur; calcar | 1. fetlock	0. Noun | 1. Noun	けづめ	 	 	 	 	
+鍔	0. guard (on a sword) | 1. brim (of a hat); visor; peak | 2. brim (of a pot); flange; collar	0. Noun | 1. Noun | 2. Noun	つば	 	 	 	 		
+欠陥	0. defect; fault; flaw; deformity; deficiency; shortage; gap	0. Noun	けっかん	 	 	 	 	
+貪欲	0. greedy; avaricious; covetous	0. Na-adjective (keiyodoshi); Noun	どんよく	 	 	 	 	
+直談判	0. direct talks; direct negotiations; talking to someone in person	0. Noun; Suru verb; Intransitive verb	じかだんぱん	 	 	 	 	
+根付く	0. to take root; to strike	0. Godan verb with 'ku' ending; Intransitive verb	ねづく	 	 	 	 		
+名残	0. remains; traces; vestiges; relics | 1. (the sorrow of) parting | 2. end	0. Noun | 1. Noun | 2. Noun	なごり	 	 	 	 		
+慰霊祭	0. memorial service	0. Noun	いれいさい	 	 	 	 		
+ぐいぐい	0. without hesitation; with great optimism; vigorously; with great vigor; positively | 1. (pushing or pulling) strongly | 2. (drinking) heavily	0. Adverb (fukushi); Adverb taking the 'to' particle; Suru verb | 1. Adverb (fukushi); Adverb taking the 'to' particle; Suru verb | 2. Adverb (fukushi); Adverb taking the 'to' particle; Suru verb	ぐいぐい	 	 	 	 		
+憤慨	0. indignation; resentment	0. Noun; Suru verb; Transitive verb; Intransitive verb	ふんがい	 	 	 	 		
+憤然	0. angry; indignant; wrathful; enraged	0. 'taru' adjective; Adverb taking the 'to' particle	ふんぜん	 	 	 	 		
+さといも (里芋)	0. taro (Colocasia esculenta); dasheen; eddo | 1. Colocasia esculenta	0. Noun | 1. Wikipedia definition	さといも	 	 	 	 		
+倦怠期	0. stage of ennui (esp. in one's married life); period of lassitude; lethargic period; rut	0. Noun	けんたいき	 	 	 	 		
+陰湿	0. malicious; spiteful; vicious; wicked; devious; underhanded; sly | 1. shady and damp	0. Na-adjective (keiyodoshi); Noun | 1. Na-adjective (keiyodoshi); Noun	いんしつ	 	 	 	 		
+~(よ) うと(も)〜(よ)うが	⇒~ても、それに関係ない影響されない。	⇒ Even if ~, it doesn’t matter / it won’t be affected.	動う・よう形・イ形 かろう・ナ形 -だろう/-であろう・名だろう/-であろう +と(も)が。後には、前の条件に影響されないことを表す文が来る。 話者の判断・決意などを表す文が来ることが多い。また、「たとえ・いかにどんなに」などの言葉を一緒に使うことも多い。Volitional form / i-adjective “karō” / na-adjective “darō/dearō” / noun “darō/dearō” + to (mo) / ga. What follows expresses that the condition in the first clause has no effect. It is often used to express the speaker’s judgment or determination. Words like “tatoe,” “ikani,” and “donna ni” are often used together with it.						
+演劇	drama, theatre, theater, play	Noun, Noun which may take the genitive case particle 'no'	演劇[えんげき]						
+集合	meeting up, gathering, assembly	Noun, Suru verb	集合[しゅうごう]		set				
+灯台	lighthouse	Noun	灯台[とうだい]		old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it				
+工芸	industrial arts, craft	Noun, Noun which may take the genitive case particle 'no'	工芸[こうげい]						
+性質	nature, property, disposition	Noun	性質[せいしつ]						
+箇所	place, point, part, spot, area, passage, portion	Noun	箇所[かしょ]		counter for places, parts, passages, etc.				
+標本	example, specimen, sample	Noun	標本[ひょうほん]						
+寝台	bed, couch	Noun	寝台[しんだい]						
+創作	creation, production, creative work (novel, film, etc.), original work, (creative) writing	Noun, Suru verb, Transitive verb	創作[そうさく]		fabrication, fiction, invention				
+大木	large tree	Noun	大木[たいぼく]						
+対	pair, couple, set	Noun	対[つい]		antithesis; counter for items that come in pairs; counter for sets (of clothes, small furniture, utensils, etc.)				
+問答	questions and answers, dialogue	Noun, Suru verb, Transitive verb, Intransitive verb	問答[もんどう]						
+概論	introduction, outline, general remarks	Noun, Suru verb	概論[がいろん]						
+習字	penmanship, calligraphy	Noun	習字[しゅうじ]						
+やっていく	- to live; to make a living; to get on with		やっていく						
+奇妙	0. strange; odd; peculiar; queer; curious	0. Na-adjective (keiyodoshi); Noun	きみょう	 	 	 	 		
+漁	0. fishing; gathering seafood (e.g. clams, seaweed) | 1. catch (e.g. of fish); haul	0. Noun; Noun, used as a suffix | 1. Noun	りょう	 	 	 	 	
+敏捷	0. nimble; agile; quick | 1. quick (thinking); smart; alert; prompt	0. Na-adjective (keiyodoshi); Noun | 1. Na-adjective (keiyodoshi); Noun	びんしょう	 	 	 	 	
+生垣	0. hedge	0. Noun	いけがき	 	 	 	 		
+一挙手一投足	0. one's every action; every single move | 1. slight effort; least trouble; small amount of work	0. Noun | 1. Noun	いっきょしゅいっとうそく	 	 	 	 	
+巧妙	0. ingenious; skillful; clever; deft; sophisticated	0. Na-adjective (keiyodoshi); Noun	こうみょう	 	 	 	 	
+王位	0. the throne; the crown	0. Noun	おうい	 	 	 	 		
+繰り上げる	0. to move up; to advance	0. Ichidan verb; Transitive verb	くりあげる	 	 	 	 		
+ぶるぶる	0. trembling (with fear, anger, etc.); shivering (with cold); shaking; quivering	0. Adverb (fukushi); Adverb taking the 'to' particle; Suru verb	ぶるぶる	 	 	 	 		
+昏倒	0. falling (down) unconscious; fainting (and collapsing)	0. Noun; Suru verb; Intransitive verb	こんとう	 	 	 	 	
+健気	0. admirable; commendable; praiseworthy; laudable; brave; heroic; noble; courageous	0. Na-adjective (keiyodoshi); Noun	けなげ	 	 	 	 	
