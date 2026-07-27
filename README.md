@@ -33,3 +33,35 @@ Cluster # 7
         ['ああ', '今に', '代物', '凍える', '剃る', '嘲る', '大木', '射す', '巧妙', '御名', '所行', '抱える', '敬う', '方角', '更ける', '横切る', '流行る', '現存', '田
   え', '税収', '組む', '統一', '行列', '見入る', '請う', '蹴爪', '青少年', '鷲掴み']
 ```
+
+----
+
+For phonetic similarity, a very rough first pass - with a clustering step not yet added, and currently just using a version of Levenshtein distance weighted by the phonetic dissimilarities [kanasim](https://pypi.org/project/kanasim/) calculated - has been added, which is called (though some of the data inputs are not yet in this repo to enable public runs of it) like:
+
+```
+python phonetic_similarity_cluster.py kanasimWeightedLevenshteinCluster --leeches_glob_read_expr="leeches_6_30_2026.txt" --phonetic_dissim_read_path="data/kana_phonetic_dissimilarity_dict.json" --write_path="kanasimPhoneticLevenDists.json" --verbose=False
+```
+
+This generates a json file named `kanasimPhoneticLevenDists.json`. Post-processing that slightly on the examples gives output like:
+
+```
+掏摸 top 5 -> [('掏摸', 0.0), ('だい', 1.5028306245803833), ('鍔', 1.506257176399231), ('ああ', 1.5566766262054443), ('かつ', 1.5577874183654785)]                     剃る top 5 -> [('剃る', 0.0), ('冷める', 1.7125639915466309), ('射す', 1.7125639915466309), ('ぶら下げる', 1.7125639915466309), ('請う', 1.7281115055084229)]          
+冷める top 5 -> [('冷める', 0.0), ('射す', 1.640676736831665), ('ぶら下げる', 1.640676736831665), ('ああ', 1.6948554515838623), ('剃る', 1.7125639915466309)]          
+ああ top 5 -> [('ああ', 0.0), ('だい', 1.4230806827545166), ('かつ', 1.445237398147583), ('鍔', 1.4598031044006348), ('崖', 1.5059314966201782)]                       
+射す top 5 -> [('射す', 0.0), ('冷める', 1.640676736831665), ('ぶら下げる', 1.640676736831665), ('ああ', 1.6948554515838623), ('剃る', 1.7125639915466309)]            
+請う top 5 -> [('請う', 0.0), ('剃る', 1.7281115055084229), ('組む', 1.7370901107788086), ('ああ', 1.7464728355407715), ('更ける', 1.7476577758789062)]                
+更ける top 5 -> [('更ける', 0.0), ('組む', 1.6962668895721436), ('かつ', 1.7179936170578003), ('だい', 1.7293221950531006), ('ああ', 1.7401537895202637)]              
+組む top 5 -> [('組む', 0.0), ('更ける', 1.6962668895721436), ('かつ', 1.7232029438018799), ('請う', 1.7370901107788086), ('だい', 1.745269536972046)]                 
+ぶら下げる top 5 -> [('ぶら下げる', 0.0), ('冷める', 1.640676736831665), ('射す', 1.640676736831665), ('ああ', 1.6948554515838623), ('剃る', 1.7125639915466309)]      
+かつ top 5 -> [('かつ', 0.0), ('ああ', 1.445237398147583), ('崖', 1.4599486589431763), ('だい', 1.464479923248291), ('掏摸', 1.5577874183654785)]                      
+崖 top 5 -> [('崖', 0.0), ('だい', 1.444204568862915), ('かつ', 1.4599486589431763), ('ああ', 1.5059314966201782), ('掏摸', 1.5805208683013916)]                       
+御名 top 5 -> [('御名', 0.0), ('デマ', 1.4573094844818115), ('鍔', 1.515486478805542), ('ああ', 1.5452193021774292), ('掏摸', 1.6469945907592773)]                     
+優位 top 5 -> [('優位', 0.0), ('王位', 1.9744336605072021), ('異例', 2.1150872707366943), ('餌食', 2.188729763031006), ('出前', 2.1929454803466797)]                   
+デマ top 5 -> [('デマ', 0.0), ('鍔', 1.4489266872406006), ('御名', 1.4573094844818115), ('ああ', 1.5200345516204834), ('だい', 1.6125433444976807)]                    
+だい top 5 -> [('だい', 0.0), ('ああ', 1.4230806827545166), ('崖', 1.444204568862915), ('かつ', 1.464479923248291), ('掏摸', 1.5028306245803833)]                      
+よー top 5 -> [('よー', 0.0), ('だい', 1.7744851112365723), ('ああ', 1.7757227420806885), ('崖', 1.7777578830718994), ('かつ', 1.7842270135879517)]                    
+鍔 top 5 -> [('鍔', 0.0), ('デマ', 1.4489266872406006), ('ああ', 1.4598031044006348), ('掏摸', 1.506257176399231), ('御名', 1.515486478805542)]                        
+王位 top 5 -> [('王位', 0.0), ('優位', 1.9744336605072021), ('おいで', 2.039766550064087), ('異例', 2.04660701751709), ('餌食', 2.113097906112671)]     
+```
+
+On a quick inspection, none of these look very similar to one another. It may be that in this particular batch of leeches phonetic similarity is just not a large driver of mnemonic interference, but additional work is needed (e.g., currently this approach only uses weights associated with the kanasim-computed single-character substitutions, but approximate string matching can accommodate multiple-character substitutions as well, and kanasim provides weights for many "biphones").
