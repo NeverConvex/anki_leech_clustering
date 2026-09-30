@@ -7,7 +7,8 @@ Japanese words and expressions, then uses this information to cluster them. Curr
 formulating a combinatorial optimization problem, and trying to solve that problem (currently, with Google ORTOOLS' somewhat unusual branch-and-bound/SAT-solver
 hybrid algorithm, CPSAT) to automatically determine number of clusters and cluster membership. This currently struggles to find an optimal solution; considering ways
 to warmstart and/or make the (admittedly quite inefficient) model formulation more efficient, or to find valid cuts, and so forth. May also try alternative solvers,
-e.g. the various solvers considered in the Mittelman benchmarks (https://plato.asu.edu/bench.html)
+e.g. the various solvers considered in the Mittelman benchmarks (https://plato.asu.edu/bench.html). May also try to determine if a decomposition algorithm (Benders,
+etc) could be useful
 """
 
 # Standard libraries
