@@ -324,23 +324,31 @@ def main(
     if show_output_visualizations: # TODO 9/30/2026 wrap this in a fxn
         # Embedding visualization: use PCA and UMAP to project NN embeddings to 2D and 3D, to see if these appear meaningful
         print("Generating embeddings for the training dataset...") # Pass training dataset through trained model to get embeddings for each img
-        encoded_data, labels = [], []
+        encoded_data_as_tensors, labels = [], []
         model.eval() # evaluation only, no longer training
 
         with torch.no_grad(): # Disable gradient calculations for inference
             for anchor, _, _, label in tqdm(trainLoader):
                 output = model(anchor.to(device))
-                encoded_data.extend(output.cpu().numpy())
+                print(f"output:{output}\noutput type: {type(output)}\nshape:{output.shape}")
+                #output_np = output.cpu().numpy()
+                encoded_data_as_tensors.extend(output.cpu())
                 labels.extend(label)
 
-        # NOTE TODO 9/30/2026 this currently fails b/c the FCN outputs are naturally of varying shapes, so np.array is not certain how to construct
-        # an array from encoded_data. The simplest fix for this would be using adaptive_avg_pool2d to force FCN output layer to a fixed shape (or
-        # using the torch.nn.functional equivalent before running PCA, without altering the catual network), but actively considering options here
-        # Our clustering exercise is itself similar to the original goal of this use of PCA/UMAP, so we may just write a secondary version of the FCN
-        # that can be run w/ fixed-shape outputs, and just disable these visualizations when the current non-fixed-output-shape variant of the FCN is used
+        print(f"tensor shapes (before avg pool): {[t.shape for t in encoded_data_as_tensors]}")
+        min_h, min_w = map(min, zip(*(t.shape[-2:] for t in encoded_data_as_tensors)))
+        # FCN output layers are naturally of different shapes, which can't easily be passed to PCA. Here we accept some information loss to
+        # coerce them into the same shape
+        encoded_data_as_tensors = [torch.nn.functional.adaptive_avg_pool2d(t, output_size=(min_h, min_w)) for t in encoded_data_as_tensors]
+        print(f"tensor shapes (after {min_h, min_w} avg pool): {[t.shape for t in encoded_data_as_tensors]}")
+        encoded_data = [t.numpy() for t in encoded_data_as_tensors]
+
         encoded_data = np.array(encoded_data)
+        color_labels = ['rgb(255, 0, 0)' if l =='Negative' else 'rgb(0, 0, 255)' for l in labels]
         labels = np.array(labels)
-        print(f"Generated {encoded_data.shape[0]} embeddings of dimension {encoded_data.shape[1]}.")
+        print(f"Generated embeddings with shape: {encoded_data.shape}")
+        n_samples = encoded_data.shape[0]
+        encoded_data = encoded_data.reshape(n_samples, -1)
 
         # Dimensionality Reduction: apply PCA to reduce the embeddings from variable-sized FCN outputs to 3D
         pca = PCA(n_components=3)
@@ -353,7 +361,7 @@ def main(
             y=encoded_data_3d[:, 1],
             z=encoded_data_3d[:, 2],
             mode='markers',
-            marker=dict(size=3, color=labels, colorscale='Viridis', opacity=0.8),
+            marker=dict(size=3, color=color_labels, colorscale='Viridis', opacity=0.8),
             text=labels,
             hoverinfo='text',
         )

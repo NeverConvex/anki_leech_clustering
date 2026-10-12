@@ -3,19 +3,25 @@
 package_update: true
 
 packages:
+  - software-properties-common
   - git
-  - python3
-  - python3-venv
   - python3-pip
 
 runcmd:
+  - add-apt-repository -y ppa:deadsnakes/ppa
+  - apt-get update
+  - apt-get install -y python3.13 python3.13-venv
   - - bash
     - -lc
     - |
       set -e
       cd /home/ubuntu
+      sudo dd if=/dev/zero of=/swapfile bs=1M count=10240 status=progress
+      sudo chmod 600 /swapfile
+      sudo mkswap /swapfile
+      sudo swapon /swapfile
       git clone https://github.com/NeverConvex/anki_leech_clustering anki_leech_clustering
       chown -R ubuntu:ubuntu /home/ubuntu/anki_leech_clustering
-      runuser -u ubuntu -- python3 -m venv /home/ubuntu/anki_leech_clustering/.venv
+      runuser -u ubuntu -- python3.14 -m venv /home/ubuntu/anki_leech_clustering/.venv
       runuser -u ubuntu -- /home/ubuntu/anki_leech_clustering/.venv/bin/python -m pip install --upgrade pip
       runuser -u ubuntu -- /home/ubuntu/anki_leech_clustering/.venv/bin/python -m pip install -r /home/ubuntu/anki_leech_clustering/anki_leech_clustering_requirements.txt
